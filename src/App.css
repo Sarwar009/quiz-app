@@ -36,6 +36,10 @@
     color: #fff;
 }
 
+.Quiz h1 {
+    padding: 15px;
+}
+
 .options {
     width: 100%;
     display: flex;
