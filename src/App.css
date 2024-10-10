@@ -54,12 +54,10 @@
     background-color: darkslateblue;
 }
 
-.options button:hover {
-    color: rgb(67, 163, 167);
-    background-color: burlywood;
-    transition: .5s all ease;
+.options button:active {
+    color: black;
+    background-color: green;
 }
-
 /* -----------------Responsive-------------------------- */
 
 @media (max-width: 500px) {
